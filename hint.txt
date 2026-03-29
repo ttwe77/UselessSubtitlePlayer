@@ -1,0 +1,6 @@
+## 安装依赖
+
+在运行本软件前，请先安装必要的 Python 库：
+
+执行：
+pip install pygame pysrt
